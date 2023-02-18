@@ -5,6 +5,9 @@
   "repository": "https://github.com/Ravaka82/Server.git",
   "author": "Ravaka82 <RakotonarivoSaholintsoaRavaka@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
