@@ -1,0 +1,8 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ravaka82/Server.git",
+  "author": "Ravaka82 <RakotonarivoSaholintsoaRavaka@gmail.com>",
+  "license": "MIT"
+}
