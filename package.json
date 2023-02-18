@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Ravaka82/Server.git",
   "author": "Ravaka82 <RakotonarivoSaholintsoaRavaka@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
